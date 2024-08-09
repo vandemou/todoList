@@ -33,3 +33,10 @@ npm run build
 ```sh
 npm run lint
 ```
+### Deploy to github
+
+```sh
+npm run deploy
+```
+
+https://vandemou.github.io/todoList
